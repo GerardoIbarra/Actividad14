@@ -1,0 +1,17 @@
+body
+{
+    font-family: Tahoma,Verdana,Arial;
+}
+.titRio{
+    color:aqua;font-size: 22pt;text-align: center;
+}
+.pie{
+    border-top: 1px solid black;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+#partes{
+    text-align: center;
+    background-color: green;
+}
